@@ -1,4 +1,4 @@
-# Orcish Meal Planner
+# Meal Planner
 
 ![orcish-meal-planner](https://github.com/user-attachments/assets/9c1cdd6d-9e46-4380-8ec6-b36b69934bf8)
 
